@@ -1,4 +1,4 @@
-# computerVersion
+# computerVision
 #Scene Recognition  
 #Data 
 The training data consists of 100 images for each of the 15 scene classes. These are arranged in directories named according to the class name. The test data consists of 2985 images. All the images are provided in JPEG format. All the images are grey-scale, so you don't need to consider colour.
